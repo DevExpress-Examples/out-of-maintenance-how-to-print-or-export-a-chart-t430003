@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainPage.aspx](./CS/PrintAndExport/MainPage.aspx) (VB: [MainPage.aspx](./VB/PrintAndExport/MainPage.aspx))**
+<!-- default file list end -->
 # How to print or export a chart
 
 
